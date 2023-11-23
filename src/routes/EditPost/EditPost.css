@@ -1,0 +1,8 @@
+.post-editor h2 {
+	text-align: center;
+	margin-bottom: 2rem;
+}
+
+textarea {
+	height: 50vh;
+}
